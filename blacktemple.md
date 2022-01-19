@@ -257,7 +257,7 @@ permalink: /blacktemple/
 - Face elementals away from raid
 - Move out of fire, but don't move flame too far away from the warglaive. Kite boss around flames if you have to.
 - Melee don't stand in fire, step out even if you can't hit boss
-- Healers focus heal player targeted by Dark Barrage, will deal 3000 damage eevery second for 10 seconds
+- Healers focus heal player targeted by Dark Barrage, will deal 3000 damage every second for 10 seconds
 - Range spread with your group into several clumps
 - Move with your group if there is any eye beam fire on ground
 
