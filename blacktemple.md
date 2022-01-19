@@ -1,3 +1,7 @@
+layout: page
+title: "Black Temple"
+permalink: /blacktemple/
+
 # Black Temple
 
 ## High Warlord Naj'entus
