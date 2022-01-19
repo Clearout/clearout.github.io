@@ -6,8 +6,7 @@ permalink: /blacktemple/
 
 ## High Warlord Naj'entus
 
-[Short video](https://www.youtube.com/watch?v=3sHa14nvkhQ)
-
+[Short video](https://www.youtube.com/watch?v=3sHa14nvkhQ)\
 [Detailed video](https://www.youtube.com/watch?v=WD-kzi9y9vg)
 
 ![High Warlord Naj'entus](/images/najentus.png)
@@ -21,7 +20,7 @@ permalink: /blacktemple/
 
 ## Supremus
 
-[Short video](https://www.youtube.com/watch?v=HD444y5-L3I)
+[Short video](https://www.youtube.com/watch?v=HD444y5-L3I)\
 [Detailed video](https://www.youtube.com/watch?v=YFQO_VWcqBA)
 
 ![Supremus](/images/supremus.png)
@@ -63,7 +62,7 @@ permalink: /blacktemple/
 
 ## Teron Gorefiend
 
-[Short video](https://www.youtube.com/watch?v=DEAn2n9pNgA)
+[Short video](https://www.youtube.com/watch?v=DEAn2n9pNgA)\
 [Detailed video](https://www.youtube.com/watch?v=m5IMcyRtEVM&)
 
 ![Teron Gorefiend](/images/terongorefiend.png)
@@ -87,8 +86,7 @@ permalink: /blacktemple/
 
 ## Gurtogg Bloodboil
 
-[Short video](https://www.youtube.com/watch?v=yPaj1Wpd6cE)
-
+[Short video](https://www.youtube.com/watch?v=yPaj1Wpd6cE)\
 [Detailed video](https://www.youtube.com/watch?v=nBbtjBE8PFc)
 
 ### Phase 1
@@ -129,8 +127,7 @@ permalink: /blacktemple/
 
 ## Reliquary of Souls
 
-[Short video](https://www.youtube.com/watch?v=R4ivogthsX4)
-
+[Short video](https://www.youtube.com/watch?v=R4ivogthsX4)\
 [Detailed video](https://www.youtube.com/watch?v=_BD0vhuWbVc)
 
 ![Reliquary of Souls](/images/reliquaryofsouls.png)
@@ -236,8 +233,7 @@ permalink: /blacktemple/
 
 ## Illidan Stormrage
 
-[Short video](https://www.youtube.com/watch?v=PIu6hVhaR08)
-
+[Short video](https://www.youtube.com/watch?v=PIu6hVhaR08)\
 [Detailed video](https://www.youtube.com/watch?v=8l-4uXf7DaE)
 
 ### Phase 1
