@@ -268,7 +268,7 @@ permalink: /blacktemple/
 
 ### Phase 4
 
-![Illidan Stormrage Phase 4](/images/illidanstormragep3.png)
+![Illidan Stormrage Phase 4](/images/illidanstormragep4.png)
 
 - Boss tanked by shadow resistance warlock
 - EVERYONE be 15 yards minimum away from boss
