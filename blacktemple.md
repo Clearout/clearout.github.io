@@ -13,10 +13,10 @@ permalink: /blacktemple/
 
 - Lust on pull
 - Melee in two groups one at each foot
-- Ranged spread 6 yards away
+- Ranged spread 6 yards away from eachother
 - Free players hit by spine by clicking it
 - When boss bubbles heal raid to full
-- When raid healed to full a player that looted a spine fires it at Naj'entus
+- When raid is healed to full, a player that looted a spine fires it at Naj'entus
 
 ## Supremus
 
@@ -174,7 +174,7 @@ permalink: /blacktemple/
 - Thornling seeds can help with damage going out
 - Casters spread into two groups under the lamp posts
 - Casters must be 18 yards away from boss
-- Boss will gain resistance to some and weakness to other elements during fight, watch threat and think about which spells to use
+- Boss will gain resistance to some elements and weakness to others during fight, watch threat and think about which spells to use
 
 ### Fatal attraction
 
@@ -196,7 +196,7 @@ permalink: /blacktemple/
 #### Mage
 
 - Tank High Nethermancer Zerevor (mage)
-- Use spellsteal to take Dampen Magic from boss
+- Use spellsteal to get Dampen Magic from boss
 - Stay away from raid
 
 #### Warrior
@@ -208,7 +208,7 @@ permalink: /blacktemple/
 #### Druid
 
 - Tank Veras Darkshadow (rogue)
-- Charge and pick up after his vanish is done
+- Charge and pick up after his vanish is done, he ignores threat until you pick him again
 
 #### Paladin
 
@@ -253,17 +253,17 @@ permalink: /blacktemple/
 ![Illidan Stormrage Phase 2](/images/illidanstormragep2.png)
 
 - Pop lust
-- Fire res tanks tank each fire elemental
+- Paladin and druid with fire resistance gear tank each elemental
 - Face elementals away from raid
-- Move out of fire, but don't move flame too far away from the warglaive. Kite boss around flames if you have to.
-- Melee don't stand in fire, step out even if you can't hit boss
+- Move out of fire, but don't move elemental too far away from the warglaive. Kite boss around flames if you have to.
+- Melee don't stand in fire, step out even if you can't hit elementals
 - Healers focus heal player targeted by Dark Barrage, will deal 3000 damage every second for 10 seconds
 - Range spread with your group into several clumps
 - Move with your group if there is any eye beam fire on ground
 
 ### Phase 3
 
-- Almost same as phase 1
+- Does everything he does in phase 1
 - Move out from raid if you get Agonizing Flames
 
 ### Phase 4
@@ -272,10 +272,10 @@ permalink: /blacktemple/
 
 - Boss tanked by shadow resistance warlock
 - EVERYONE be 15 yards minimum away from boss
-- Kill shadow demons that spawn, they kill if they reach a player
+- Kill shadow demons that spawn, if they reach a player they will die
 
 ### Phase 5
 
-- Same as phase 3, if were slow he will go to same as phase 4
+- Same as phase 3, if were low on damage he will go back to phase 4
 - Maiev Shadowsong will help pump
 - Drag boss over Shadow Trap, will increase damage taken by 50%
