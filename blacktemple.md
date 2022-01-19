@@ -83,7 +83,7 @@ permalink: /blacktemple/
 - Use Spirit Volley (5 on action bar), then use Spirit Chains (4 on action bar)
 - Use Spirit Lance (3 on action bar) once on each target
 - Repeat until all ghosts are dead
-- If any ther ghosts, kill them, then dps boss as the spirit pumps
+- If any other ghosts alive, kill them, then dps boss as the spirit pumps
 
 ## Gurtogg Bloodboil
 
