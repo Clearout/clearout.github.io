@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Black Temple"
+title: 'Black Temple'
 permalink: /blacktemple/
+---
 
 # Black Temple
 
