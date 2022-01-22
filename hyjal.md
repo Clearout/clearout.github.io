@@ -14,8 +14,8 @@ permalink: /hyjal/
 - Equip pvp trinket
 - Lust on pull
 - Use pvp trinket, living action potion, bubble, iceblock to get out of icebolt
-- Healer keep eye on players stuck in icebolt
-- Tank can use FAP, or get blessing of freedom to prevent being chilled by frost armor
+- Healer keep an eye on players stuck in icebolt
+- Tank can use FAP or get blessing of freedom, to prevent being chilled by frost armor
 - Move out of death and decay
 - Dispel frost nova from melee
 
@@ -23,7 +23,7 @@ permalink: /hyjal/
 
 [Short video](https://www.youtube.com/watch?v=CBGG74_MW0M)
 
-[!Anetheron](/images/anetheron.png)
+![Anetheron](/images/anetheron.png)
 
 - Lust on pull
 - Spread out to avoid carrion swarm, especially healers
@@ -35,7 +35,7 @@ permalink: /hyjal/
 
 [Detailed video](https://www.youtube.com/watch?v=JbiA2yrU5rs)
 
-[!Kaz'rogal](/images/kazrogal.png)
+![Kaz'rogal](/images/kazrogal.png)
 
 [Weakaura for mana](https://wago.io/xWCI1wK0z)
 
@@ -45,13 +45,14 @@ permalink: /hyjal/
 - Melee and tank use FAP to negate war stomp stun and damage
 - Applies Mark of Kaz'rogal which drains 3000 mana over 5 seconds
 - Mana users DO NOT go below 3000 mana
-- If you will end with 0 mana with mark on, you go boom, so run out of the raid
+- If you will end with 0 mana with mark on, you will explode, so run out of the raid
+- Mages and paladin can use iceblock or bubble to remove a mark
 
 ## Azgalor
 
 [Detailed video](https://www.youtube.com/watch?v=gBcMiv77SkY)
 
-[!Azgalor](/images/azgalor.png)
+![Azgalor](/images/azgalor.png)
 
 - Warlocks prepare soulstones before pull
 - Lust on pull
@@ -66,9 +67,9 @@ permalink: /hyjal/
 
 [Detailed video](https://www.youtube.com/watch?v=SxbjsCtBhsU)
 
-[!Archimonde](/images/archimonde.png)
+![Archimonde](/images/archimonde.png)
 
-- Pick up [Tears of the Goddess](https://tbc.wowhead.com/item=24494/tears-of-the-goddess) before pull
+- Pick up [Tears of the Goddess](https://tbc.wowhead.com/item=24494/tears-of-the-goddess) from Tyrande before pull
 - Get shield and full hots up on tank during pull
 - Spread around boss with your group
 - DONT DIE - DONT DIE - DONT DIE
