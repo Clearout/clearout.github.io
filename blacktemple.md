@@ -256,6 +256,7 @@ permalink: /blacktemple/
 
 ## Illidan Stormrage
 
+[30 second guide](https://www.youtube.com/watch?v=tat4rMUHTbw)
 [Short video](https://www.youtube.com/watch?v=PIu6hVhaR08)\
 [Detailed video](https://www.youtube.com/watch?v=8l-4uXf7DaE)
 
