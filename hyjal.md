@@ -16,6 +16,7 @@ permalink: /hyjal/
 ## Rage Winterchill
 
 [Short video](https://www.youtube.com/watch?v=rZ0qkg-f5bs)
+[Detailed video](https://www.youtube.com/watch?v=E0Gi7Ylp3Tg)
 
 ![Rage Winterchill](/images/ragewinterchill.png)
 
@@ -30,6 +31,7 @@ permalink: /hyjal/
 ## Anetheron
 
 [Short video](https://www.youtube.com/watch?v=CBGG74_MW0M)
+[Detailed video](https://www.youtube.com/watch?v=ymszDOZZpvc)
 
 ![Anetheron](/images/anetheron.png)
 
@@ -41,6 +43,7 @@ permalink: /hyjal/
 
 ## Kaz'rogal
 
+[Short video](https://www.youtube.com/watch?v=V_bwCzGex9M)
 [Detailed video](https://www.youtube.com/watch?v=JbiA2yrU5rs)
 
 ![Kaz'rogal](/images/kazrogal.png)
