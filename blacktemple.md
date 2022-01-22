@@ -5,6 +5,8 @@ permalink: /blacktemple/
 
 # Black Temple
 
+[Hyjal guide](https://clearout.github.io/hyjal/)
+
 - [High Warlord Naj'entus](#high-warlord-najentus)
 - [Supremus](#supremus)
 - [Shade of Akama](#shade-of-akama)

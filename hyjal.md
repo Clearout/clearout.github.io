@@ -5,6 +5,8 @@ permalink: /hyjal/
 
 # Hyjal
 
+[Black temple guide](https://clearout.github.io/blacktemple/)
+
 - [Rage Winterchill](#rage-winterchill)
 - [Anetheron](#anetheron)
 - [Kaz'rogal](#kazrogal)
