@@ -19,6 +19,7 @@ permalink: /blacktemple/
 
 ## High Warlord Naj'entus
 
+[30 second guide](https://www.youtube.com/watch?v=DuQiS0asxm8)
 [Short video](https://www.youtube.com/watch?v=3sHa14nvkhQ)\
 [Detailed video](https://www.youtube.com/watch?v=WD-kzi9y9vg)
 
@@ -33,6 +34,7 @@ permalink: /blacktemple/
 
 ## Supremus
 
+[30 second guide](https://www.youtube.com/watch?v=HnhcXCZXM8I)
 [Short video](https://www.youtube.com/watch?v=HD444y5-L3I)\
 [Detailed video](https://www.youtube.com/watch?v=YFQO_VWcqBA)
 
@@ -56,6 +58,7 @@ permalink: /blacktemple/
 
 ## Shade of Akama
 
+[30 second guide](https://www.youtube.com/watch?v=5ezbPqjh_y8)
 [Short video](https://www.youtube.com/watch?v=11hcFD0-wRQ)
 
 ![Shade of Akama](/images/shadeofakama.png)
@@ -75,8 +78,10 @@ permalink: /blacktemple/
 
 ## Teron Gorefiend
 
+[30 second guide](https://www.youtube.com/watch?v=j5LV84lKcTM)
 [Short video](https://www.youtube.com/watch?v=DEAn2n9pNgA)\
 [Detailed video](https://www.youtube.com/watch?v=m5IMcyRtEVM&)
+[Minigame](https://teron.faldorn.net/)
 
 ![Teron Gorefiend](/images/terongorefiend.png)
 
@@ -99,6 +104,7 @@ permalink: /blacktemple/
 
 ## Gurtogg Bloodboil
 
+[30 second guide](https://www.youtube.com/watch?v=-tu22vtOX3Q)
 [Short video](https://www.youtube.com/watch?v=yPaj1Wpd6cE)\
 [Detailed video](https://www.youtube.com/watch?v=nBbtjBE8PFc)
 
@@ -140,6 +146,7 @@ permalink: /blacktemple/
 
 ## Reliquary of Souls
 
+[30 second guide](https://www.youtube.com/watch?v=nS7rjwXMyDY)
 [Short video](https://www.youtube.com/watch?v=R4ivogthsX4)\
 [Detailed video](https://www.youtube.com/watch?v=_BD0vhuWbVc)
 
@@ -177,7 +184,8 @@ permalink: /blacktemple/
 
 ## Mother Shahraz
 
-[Video](https://www.youtube.com/watch?v=2PFH3JSiMcE)
+[30 second guide](https://www.youtube.com/watch?v=Kb0kJpmHzsI)
+[Short video](https://www.youtube.com/watch?v=2PFH3JSiMcE)
 
 ![Mother Shahraz](/images/mothershahraz.png)
 
@@ -185,6 +193,7 @@ permalink: /blacktemple/
 - Put on your shadow resistance gear
 - All tanks wear max chonk gear, stand in front of boss to share cleave damage
 - Thornling seeds can help with damage going out
+- Ranged stand under statues so you don't get knocked too far up in the air
 - Casters spread into two groups under the lamp posts
 - Casters must be 18 yards away from boss
 - Boss will gain resistance to some elements and weakness to others during fight, watch threat and think about which spells to use
@@ -200,7 +209,8 @@ permalink: /blacktemple/
 
 ## The Illidari Council
 
-[Video](https://www.youtube.com/watch?v=s2R7eCgdRLM)
+[30 second guide](https://www.youtube.com/watch?v=KTQ1AOm33nU)
+[Short video](https://www.youtube.com/watch?v=s2R7eCgdRLM)
 
 ![The Illidari Council](/images/illidaricouncil.png)
 
