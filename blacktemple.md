@@ -19,7 +19,7 @@ permalink: /blacktemple/
 
 ## High Warlord Naj'entus
 
-[30 second guide](https://www.youtube.com/watch?v=DuQiS0asxm8)
+[30 second guide](https://www.youtube.com/watch?v=DuQiS0asxm8)\
 [Short video](https://www.youtube.com/watch?v=3sHa14nvkhQ)\
 [Detailed video](https://www.youtube.com/watch?v=WD-kzi9y9vg)
 
@@ -34,7 +34,7 @@ permalink: /blacktemple/
 
 ## Supremus
 
-[30 second guide](https://www.youtube.com/watch?v=HnhcXCZXM8I)
+[30 second guide](https://www.youtube.com/watch?v=HnhcXCZXM8I)\
 [Short video](https://www.youtube.com/watch?v=HD444y5-L3I)\
 [Detailed video](https://www.youtube.com/watch?v=YFQO_VWcqBA)
 
@@ -58,7 +58,7 @@ permalink: /blacktemple/
 
 ## Shade of Akama
 
-[30 second guide](https://www.youtube.com/watch?v=5ezbPqjh_y8)
+[30 second guide](https://www.youtube.com/watch?v=5ezbPqjh_y8)\
 [Short video](https://www.youtube.com/watch?v=11hcFD0-wRQ)
 
 ![Shade of Akama](/images/shadeofakama.png)
@@ -78,7 +78,7 @@ permalink: /blacktemple/
 
 ## Teron Gorefiend
 
-[30 second guide](https://www.youtube.com/watch?v=j5LV84lKcTM)
+[30 second guide](https://www.youtube.com/watch?v=j5LV84lKcTM)\
 [Short video](https://www.youtube.com/watch?v=DEAn2n9pNgA)\
 [Detailed video](https://www.youtube.com/watch?v=m5IMcyRtEVM&)
 [Minigame](https://teron.faldorn.net/)
@@ -104,7 +104,7 @@ permalink: /blacktemple/
 
 ## Gurtogg Bloodboil
 
-[30 second guide](https://www.youtube.com/watch?v=-tu22vtOX3Q)
+[30 second guide](https://www.youtube.com/watch?v=-tu22vtOX3Q)\
 [Short video](https://www.youtube.com/watch?v=yPaj1Wpd6cE)\
 [Detailed video](https://www.youtube.com/watch?v=nBbtjBE8PFc)
 
@@ -146,7 +146,7 @@ permalink: /blacktemple/
 
 ## Reliquary of Souls
 
-[30 second guide](https://www.youtube.com/watch?v=nS7rjwXMyDY)
+[30 second guide](https://www.youtube.com/watch?v=nS7rjwXMyDY)\
 [Short video](https://www.youtube.com/watch?v=R4ivogthsX4)\
 [Detailed video](https://www.youtube.com/watch?v=_BD0vhuWbVc)
 
@@ -184,7 +184,7 @@ permalink: /blacktemple/
 
 ## Mother Shahraz
 
-[30 second guide](https://www.youtube.com/watch?v=Kb0kJpmHzsI)
+[30 second guide](https://www.youtube.com/watch?v=Kb0kJpmHzsI)\
 [Short video](https://www.youtube.com/watch?v=2PFH3JSiMcE)
 
 ![Mother Shahraz](/images/mothershahraz.png)
@@ -209,7 +209,7 @@ permalink: /blacktemple/
 
 ## The Illidari Council
 
-[30 second guide](https://www.youtube.com/watch?v=KTQ1AOm33nU)
+[30 second guide](https://www.youtube.com/watch?v=KTQ1AOm33nU)\
 [Short video](https://www.youtube.com/watch?v=s2R7eCgdRLM)
 
 ![The Illidari Council](/images/illidaricouncil.png)
@@ -256,7 +256,7 @@ permalink: /blacktemple/
 
 ## Illidan Stormrage
 
-[30 second guide](https://www.youtube.com/watch?v=tat4rMUHTbw)
+[30 second guide](https://www.youtube.com/watch?v=tat4rMUHTbw)\
 [Short video](https://www.youtube.com/watch?v=PIu6hVhaR08)\
 [Detailed video](https://www.youtube.com/watch?v=8l-4uXf7DaE)
 
