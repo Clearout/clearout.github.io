@@ -5,6 +5,12 @@ permalink: /hyjal/
 
 # Hyjal
 
+- [Rage Winterchill](#rage-winterchill)
+- [Anetheron](#anetheron)
+- [Kaz'rogal](#kazrogal)
+- [Azgalor](#azgalor)
+- [Archimonde](#archimonde)
+
 ## Rage Winterchill
 
 [Short video](https://www.youtube.com/watch?v=rZ0qkg-f5bs)

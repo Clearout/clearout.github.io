@@ -5,6 +5,16 @@ permalink: /blacktemple/
 
 # Black Temple
 
+- [High Warlord Naj'entus](#high-warlord-najentus)
+- [Supremus](#supremus)
+- [Shade of Akama](#shade-of-akama)
+- [Teron Gorefiend](#teron-gorefiend)
+- [Gurtogg Bloodboil](#gurtogg-bloodboil)
+- [Reliquary of Souls](#reliquary-of-souls)
+- [Mother Shahraz](#mother-shahraz)
+- [The Illidari Council](#the-illidari-council)
+- [Illidan Stormrage](#illidan-stormrage)
+
 ## High Warlord Naj'entus
 
 [Short video](https://www.youtube.com/watch?v=3sHa14nvkhQ)\
