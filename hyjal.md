@@ -61,6 +61,7 @@ permalink: /hyjal/
 
 ## Azgalor
 
+[Short video](https://www.youtube.com/watch?v=_JDHOLU2ShA)\
 [Detailed video](https://www.youtube.com/watch?v=gBcMiv77SkY)
 
 ![Azgalor](/images/azgalor.png)
