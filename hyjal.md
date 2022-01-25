@@ -77,6 +77,7 @@ permalink: /hyjal/
 
 ## Archimonde
 
+[Short video](https://www.youtube.com/watch?v=fhsE4DI5fzQ)\
 [Detailed video](https://www.youtube.com/watch?v=SxbjsCtBhsU)
 
 ![Archimonde](/images/archimonde.png)
