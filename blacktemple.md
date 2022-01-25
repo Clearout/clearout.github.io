@@ -96,9 +96,12 @@ permalink: /blacktemple/
 
 [Video](https://www.youtube.com/watch?v=fVT3gYZM2AI)
 
+- Ghost form uses the same bar as your pet actionbar,
+  as such you keys will be whatever your pet bar keys are bound to.
+
 - When dying to shadow of death you will become a ghost, and spawn 4 hostile ghosts that you have to kill
-- Use Spirit Volley (5 on action bar), then use Spirit Chains (4 on action bar)
-- Use Spirit Lance (3 on action bar) once on each target
+- Use Spirit Volley (no 5 on action bar), then use Spirit Chains (no 4 on action bar)
+- Use Spirit Lance (no 3 on action bar) once on each target
 - Repeat until all ghosts are dead
 - If any other ghosts alive, kill them, then dps boss as the spirit pumps
 
