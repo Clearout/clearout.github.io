@@ -189,6 +189,8 @@ permalink: /blacktemple/
 
 ![Mother Shahraz](/images/mothershahraz.png)
 
+[Weakaura for running directions](https://wago.io/7p-NQ6ZJu)
+
 - Lust on pull
 - Put on your shadow resistance gear
 - All tanks wear max chonk gear, stand in front of boss to share cleave damage
