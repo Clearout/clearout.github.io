@@ -15,6 +15,7 @@ permalink: /hyjal/
 
 ## Rage Winterchill
 
+[30 second guide](https://www.youtube.com/watch?v=nz5MUwahk_c)\
 [Short video](https://www.youtube.com/watch?v=rZ0qkg-f5bs)\
 [Detailed video](https://www.youtube.com/watch?v=E0Gi7Ylp3Tg)
 
@@ -30,6 +31,7 @@ permalink: /hyjal/
 
 ## Anetheron
 
+[30 second guide](https://www.youtube.com/watch?v=91GsLv9AASs)\
 [Short video](https://www.youtube.com/watch?v=CBGG74_MW0M)\
 [Detailed video](https://www.youtube.com/watch?v=ymszDOZZpvc)
 
@@ -43,6 +45,7 @@ permalink: /hyjal/
 
 ## Kaz'rogal
 
+[30 second guide](https://www.youtube.com/watch?v=fQEJza_jUjM)\
 [Short video](https://www.youtube.com/watch?v=V_bwCzGex9M)\
 [Detailed video](https://www.youtube.com/watch?v=JbiA2yrU5rs)
 
@@ -61,6 +64,7 @@ permalink: /hyjal/
 
 ## Azgalor
 
+[30 second guide](https://www.youtube.com/watch?v=rRBYyArMVMw)\
 [Short video](https://www.youtube.com/watch?v=_JDHOLU2ShA)\
 [Detailed video](https://www.youtube.com/watch?v=gBcMiv77SkY)
 
