@@ -76,6 +76,7 @@ permalink: /hyjal/
 - Warlocks put SS on player with doom
 - Doomed player runs to taurens and dies there
 - AOE silences entire raid for 5 seconds, so keep tank topped up and with all hots
+- Ranged stand 30 yards or more from boss to avoid rain of fire spawning on them
 - Move out of Rain of Fire
 - Paladin tanks the doomguards with designated healer, gets help from taurens
 
