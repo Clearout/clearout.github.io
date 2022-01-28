@@ -181,6 +181,7 @@ permalink: /blacktemple/
 
 - Tank 1 tanks until Seethe goes out, tank 2 will taunt when he gets Seethe
 - EVERY DPS IS AFK WHEN SEETHE HAS GONE OUT AND TANKS HAVE SWAPPED UNTIL MEGA THREAT ESTABLISHED
+- Warrior / druid tanks empty rage bar before Soul Scream goes out
 - Hunters use tranq when boss has Seethe buff
 - Pop lust
 - Keep raid topped to prevent people dying from Spite (7500 dmg)
