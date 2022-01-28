@@ -171,7 +171,7 @@ permalink: /blacktemple/
 ### Phase 2
 
 - Warrior tanks boss, use spell reflect on deaden ability
-- Interrupt all other casts
+- Interrupt spirit shock
 - Keep curse of tongues up
 - Spellsteal Rune Shield. If you already have it, let the other mage spell steal it
 - Healing taken is increased 100%, but 50% of damage you deal to boss will be reflected
