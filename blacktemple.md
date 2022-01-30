@@ -224,6 +224,7 @@ permalink: /blacktemple/
 
 #### Mage
 
+- Starts the encounter by pulling with Blessing of Protections on
 - Tank High Nethermancer Zerevor (mage)
 - Use spellsteal to get Dampen Magic from boss
 - Stay away from raid
@@ -231,8 +232,8 @@ permalink: /blacktemple/
 #### Warrior
 
 - Tank Gathios the Shatterer (paladin)
-- Move him when he uses concecrate
-- Spell reflect Judgement of Command
+- Move him when area gets hit by concecrate, flamestrike or blizzard
+- Spell reflect when he casts Judgement of Command
 
 #### Druid
 
@@ -257,7 +258,7 @@ permalink: /blacktemple/
 
 - Stack them
 - Physical dps focus damage on rogue if hes out and threat allows (he has very little armor)
-- Don't stand in shit like concecrate or flamestrike
+- Move out of concecrate, flamestrike and blizzard
 - Spam heal whoever gets envenom
 
 ## Illidan Stormrage
