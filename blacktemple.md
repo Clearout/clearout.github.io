@@ -293,9 +293,8 @@ permalink: /blacktemple/
 ### Phase 3
 
 - Does everything he does in phase 1
-- Move out from raid if you get Agonizing Flames
+- Move out from raid if you get Parasite
 - Raid spread out to avoid damaga from Agonizing Flames
-- Ve extra aware of running out of raid with parasite
 - When he kneels down its a threat wipe - STOP ALL DPS - only warlock tank should build threat
 
 ### Phase 4
