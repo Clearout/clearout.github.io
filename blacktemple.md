@@ -195,11 +195,11 @@ permalink: /blacktemple/
 
 [Weakaura for running directions](https://wago.io/7p-NQ6ZJu)
 
-- Lust on pull
 - Put on your shadow resistance gear
+- Lust on pull
 - All tanks wear max chonk gear, stand in front of boss to share cleave damage
 - Thornling seeds can help with damage going out
-- Ranged stand under statues so you don't get knocked too far up in the air
+- Ranged stand under statues so you don't get knocked up in the air
 - Casters spread into two groups under the lamp posts
 - Casters must be 18 yards away from boss
 - Boss will gain resistance to some elements and weakness to others during fight, watch threat and think about which spells to use
@@ -219,6 +219,8 @@ permalink: /blacktemple/
 [Short video](https://www.youtube.com/watch?v=s2R7eCgdRLM)
 
 ![The Illidari Council](/images/illidaricouncil.png)
+
+Can use thornling seeds on the outside of raid so they get targeted by flamestrike or blizzards
 
 ### Tanks
 
