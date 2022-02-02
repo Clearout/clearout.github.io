@@ -56,6 +56,7 @@ permalink: /hyjal/
 - Lust on pull
 - Run boss to NPCs and Thrall to help dps, move it so that they hit the boss from behind
 - Don't get cleaved
+- Tanks share cleave damage
 - Melee and tank use FAP to negate war stomp stun and damage
 - Applies Mark of Kaz'rogal which drains 3000 mana over 5 seconds
 - Mana users DO NOT go below 3000 mana
